@@ -1,4 +1,4 @@
-const CACHE_NAME = "hyuncheol-lotto-v1";
+const CACHE_NAME = "hyunchul-lotto-v3";
 const APP_SHELL = [
   "/",
   "/manifest.webmanifest",
